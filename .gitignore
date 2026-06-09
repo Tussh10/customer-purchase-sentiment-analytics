@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local config
+.env
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: keep data folders but ignore generated CSV files if needed
+# Uncomment if you do not want to push data files
+# data/raw/*.csv
+# data/processed/*.csv
