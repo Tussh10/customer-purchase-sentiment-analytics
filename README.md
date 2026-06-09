@@ -310,6 +310,6 @@ Built an end-to-end ecommerce analytics project using Python, MySQL, TextBlob NL
 
 ## Author
 
-**Your Name**  
+**Tushar Yadgire**  
 Data Analyst | Python | SQL | Power BI | Basic NLP
 
