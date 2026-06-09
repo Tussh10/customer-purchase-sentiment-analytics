@@ -307,9 +307,3 @@ Built an end-to-end ecommerce analytics project using Python, MySQL, TextBlob NL
 7. Open the `.pbix` file and refresh the dashboard.
 
 ---
-
-## Author
-
-**Tushar Yadgire**  
-Data Analyst | Python | SQL | Power BI | Basic NLP
-
